@@ -5,13 +5,13 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ### Categories
 
-* [CSS](#CSS)
-* [GraphQL](#GraphQL)
-* [Javascript](#Javascript)
-* [Node](#Node)
-* [NPM](#NPM)
-* [Python](#Python)
-* [React](#React)
+* [CSS](#css)
+* [GraphQL](#graphql)
+* [Javascript](#javascript)
+* [Node](#node)
+* [NPM](#npm)
+* [Python](#python)
+* [React](#react)
 
 ---
 
