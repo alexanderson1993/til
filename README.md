@@ -29,6 +29,7 @@ _2 and counting..._
 ### NPM
 
 - [npm outdated](npm/outdated.md)
+- [package.json](npm/package.json.md)
 
 ### Python
 
