@@ -1,7 +1,7 @@
 # Today I Learned
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post. Inspired by [this guy](https://github.com/jbranchaud/til).
 
-_6 and counting..._
+_7 and counting..._
 ---
 
 ### Categories
@@ -26,6 +26,7 @@ _6 and counting..._
 ### Javascript
 
 - [super](javascript/super.md)
+- [getters/setters](javascript/getset.md)
 
 ### Node
 
