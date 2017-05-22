@@ -34,7 +34,7 @@ _8 and counting..._
 
 - [npm outdated](npm/outdated.md)
 - [package.json](npm/package.json.md)
-- [pre/post scripts](prepostscripts.md)
+- [pre/post scripts](npm/prepostscripts.md)
 
 ### Python
 
