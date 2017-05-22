@@ -1,7 +1,7 @@
 # Today I Learned
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post. Inspired by [this guy](https://github.com/jbranchaud/til).
 
-_7 and counting..._
+_8 and counting..._
 ---
 
 ### Categories
@@ -34,6 +34,7 @@ _7 and counting..._
 
 - [npm outdated](npm/outdated.md)
 - [package.json](npm/package.json.md)
+- [pre/post scripts](prepostscripts.md)
 
 ### Python
 
