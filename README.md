@@ -22,6 +22,7 @@ _9 and counting..._
 
 - [aliasing](graphql/aliasing.md)
 - [unions](graphql/unions.md)
+- [cheat sheet](graphql/cheat-sheet.md)
 
 ### Javascript
 
