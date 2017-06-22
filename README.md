@@ -1,7 +1,7 @@
 # Today I Learned
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post. Inspired by [this guy](https://github.com/jbranchaud/til).
 
-_14 and counting..._
+_13 and counting..._
 ---
 
 ### Categories
@@ -21,7 +21,6 @@ _14 and counting..._
 - [custom properties](css/custom-properties.md)
 - [minmax()](css/minmax.md)
 - [scroll snap](css/scrollsnap.md)
-- [color functions](css/color-functions.md)
 
 ### GraphQL
 
