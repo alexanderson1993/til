@@ -46,3 +46,4 @@ _13 and counting..._
 ### React
 
 - [generic imports](react/generic_imports.md)
+- [recursive react components](react/recursive_components.md)
